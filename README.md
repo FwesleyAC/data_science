@@ -1,2 +1,16 @@
-# data_science
-Portifólio de Projetos de Data Science
+
+< p align = "center" >
+  <img src = "banner.png" >
+</ p >
+
+# Wesley Araujo
+<sub> * Cientista de dados </ sub>
+
+Como cientista de dados e analista de planejamento de materiais, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes.
+
+** Experiência em: ** Python, apendizado de máquina.
+
+** Links: **
+* [Linkedin]_(https://bit.ly/3mksEfr)
+
+## Projetos:
